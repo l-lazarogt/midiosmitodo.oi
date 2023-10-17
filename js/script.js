@@ -8,7 +8,7 @@ const RADIO_NAME = 'Mi Dios Mi Todo';
 
 
 
-var zenoid = 'b4k4uytsqfhvv'
+var zenoid = '69947'
 
 
 
