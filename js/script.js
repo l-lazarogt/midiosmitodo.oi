@@ -14,7 +14,7 @@ var zenoid = 'b4k4uytsqfhvv'
 
 // URL of SHOUTCast streaming without / on the final, eg: http://streaming.com:8080
 
-const URL_STREAMING = 'https://stream-063.zeno.fm/b4k4uytsqfhvv?zs=JuELcxIDS2OSnVqG2hsdqg';
+const URL_STREAMING = 'https://stream.rcast.net/69947';
 
 
 
